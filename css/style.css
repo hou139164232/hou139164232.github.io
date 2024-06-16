@@ -6,7 +6,7 @@ body {
   }
 
 #banner{
-    background-image: url("/ComaxwebProject/resources/banner.jpg");
+    background-image: url("/resources/banner.jpg");
     background-size: cover;
     background-position: bottom center;
     height: 700px;
